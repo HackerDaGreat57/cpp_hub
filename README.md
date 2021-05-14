@@ -14,7 +14,7 @@ The stuff in the To-Do List is done from top to bottom.
         * [ ] Setup
         * [ ] Testing
 
-### Praise for people who gave essential code solutions (on Stack Overflow)
+### Praise for people who gave essential code solutions (In no particular order)
 * Sunil Singh ([Answer][1])
 
 [1]: https://stackoverflow.com/a/35173003
