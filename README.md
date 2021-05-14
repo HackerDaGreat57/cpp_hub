@@ -15,6 +15,6 @@ The stuff in the To-Do List is done from top to bottom.
         * [ ] Testing
 
 ### Praise for people who gave essential code solutions (In no particular order)
-* Sunil Singh ([Answer][1])
+* Sunil Singh ([Answer on Stack Overflow][1])
 
 [1]: https://stackoverflow.com/a/35173003
