@@ -25,7 +25,7 @@ To contribute:
 
 Recommended folder structure for your archive:
 {Archive root}
-  Original_Source
-    {Original source of C++ Hub}
-  Modified_Source
-    {Modified source of C++ Hub}
+  >Original_Source
+  >>{Original source of C++ Hub}
+  >Modified_Source
+  >>{Modified source of C++ Hub}
