@@ -18,6 +18,11 @@ To contribute:
 1. Make a pull request.
 2. Add a description of what you added/fixed/removed in the PR description.
 3. Add a link to a downloadable archive containing your code. Rules for the archive:
-   * It must be in 7z/zip/rar/tar.xz format. 7-Zip chunks are also accepted.
+   * It must be in 7z/zip/rar/tar.xz format. 7-Zip chunks are also accepted. Any other format of archive will be declined.
    * Include the following in your archive:
-      * something (testing)
+      * Original source of C++ Hub before you modified it
+      * Source of C++ Hub AFTER you modified it (obviously)
+
+Recommended folder structure for your archive:
+{Archive root}
+  - Original_Source
